@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/Thann/health.js.git"
   },
+  "bin": "health.js",
   "main": "health.js",
   "license": "Unlicense"
 }
